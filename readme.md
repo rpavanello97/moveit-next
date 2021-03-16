@@ -19,12 +19,7 @@ This project was developed during the [Rocketseat](https://rocketseat.com.br/) w
 - Run `npm install` to install dependecies
 - Run `npm run dev` to run the project
 
-### 🚧 Built With
-- React JS
-- NextJS
-- TypeScript
-
-**Front-end**
+### 🚧 **Front-end**
  - [React JS](https://pt-br.reactjs.org/)!
  - [Typescript](https://www.typescriptlang.org/)
  - [Next JS](https://nextjs.org/)
@@ -32,5 +27,5 @@ This project was developed during the [Rocketseat](https://rocketseat.com.br/) w
  - [NPM](https://www.npmjs.com/)
  - [Jest Testing Framework](https://jestjs.io/)
 
-**Backend-end**
+### 🚧 **Backend-end**
  - [Vercel](https://vercel.com/docs)

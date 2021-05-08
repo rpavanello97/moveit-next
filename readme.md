@@ -18,6 +18,7 @@ This project was developed during the [Rocketseat](https://rocketseat.com.br/) w
 - Clone the repository
 - Run `npm install` to install dependecies
 - Run `npm run dev` to run the project
+- Run `yarn add typescript @types/react @types/react-dom @types/node -D` to install next dependecies 
 
 ### 🚧 **Front-end**
  - [React JS](https://pt-br.reactjs.org/)!
